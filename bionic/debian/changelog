@@ -1,3 +1,9 @@
+ignition-fuel-tools5 (5.1.0-1~bionic) bionic; urgency=medium
+
+  * ignition-fuel-tools5 5.1.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Wed, 09 Dec 2020 15:37:13 -0700
+
 ignition-fuel-tools5 (5.0.0-1~bionic) bionic; urgency=medium
 
   * ignition-fuel-tools5 5.0.0-1 release
