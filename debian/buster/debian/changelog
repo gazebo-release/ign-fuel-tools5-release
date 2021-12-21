@@ -1,3 +1,9 @@
+ignition-fuel-tools5 (5.2.0-1~buster) buster; urgency=medium
+
+  * ignition-fuel-tools5 5.2.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Tue, 21 Dec 2021 09:04:54 -0800
+
 ignition-fuel-tools5 (5.1.1-1~buster) buster; urgency=medium
 
   * ignition-fuel-tools5 5.1.1-1 release
